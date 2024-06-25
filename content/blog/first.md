@@ -15,10 +15,10 @@ tags = ["sample","dummy","1つ","markdown"]
 
 ## ドラフト
 
-公開する
+公開する  
 draft = false
 
-下書き
+下書き  
 draft = true
 
 bash dummy-toml.sh
